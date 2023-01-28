@@ -1,0 +1,16 @@
+C:\Users\josev\Desktop\Curso_de_C#\CSharp_Calculator\CSharp_Calculator\CSharp_Calculator\bin\Debug\CSharp_Calculator.exe.config
+C:\Users\josev\Desktop\Curso_de_C#\CSharp_Calculator\CSharp_Calculator\CSharp_Calculator\bin\Debug\CSharp_Calculator.exe
+C:\Users\josev\Desktop\Curso_de_C#\CSharp_Calculator\CSharp_Calculator\CSharp_Calculator\bin\Debug\CSharp_Calculator.pdb
+C:\Users\josev\Desktop\Curso_de_C#\CSharp_Calculator\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.csproj.AssemblyReference.cache
+C:\Users\josev\Desktop\Curso_de_C#\CSharp_Calculator\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\josev\Desktop\Curso_de_C#\CSharp_Calculator\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\josev\Desktop\Curso_de_C#\CSharp_Calculator\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.exe
+C:\Users\josev\Desktop\Curso_de_C#\CSharp_Calculator\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.pdb
+C:\Users\josev\Desktop\CSharp_Course\CSharp_Calculator\CSharp_Calculator\CSharp_Calculator\bin\Debug\CSharp_Calculator.exe.config
+C:\Users\josev\Desktop\CSharp_Course\CSharp_Calculator\CSharp_Calculator\CSharp_Calculator\bin\Debug\CSharp_Calculator.exe
+C:\Users\josev\Desktop\CSharp_Course\CSharp_Calculator\CSharp_Calculator\CSharp_Calculator\bin\Debug\CSharp_Calculator.pdb
+C:\Users\josev\Desktop\CSharp_Course\CSharp_Calculator\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.csproj.AssemblyReference.cache
+C:\Users\josev\Desktop\CSharp_Course\CSharp_Calculator\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\josev\Desktop\CSharp_Course\CSharp_Calculator\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\josev\Desktop\CSharp_Course\CSharp_Calculator\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.exe
+C:\Users\josev\Desktop\CSharp_Course\CSharp_Calculator\CSharp_Calculator\CSharp_Calculator\obj\Debug\CSharp_Calculator.pdb
